@@ -353,7 +353,7 @@ a{
    {
       margin-top:5%;
       margin-left:25%;
-      gap:1%x;
+      gap:1%;
       flex-direction: row;
       position: absolute;               
    }
@@ -363,6 +363,6 @@ a{
       width:45%;
       height:30%;
       margin-left:25%;
-      left: 20%;
+      margin-left:25%;
     }
 }
