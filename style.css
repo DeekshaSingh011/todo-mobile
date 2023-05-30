@@ -351,10 +351,13 @@ a{
    }  
  .flex2
    {
-        justify-content: space-between;
+   margin: auto;
+      margin-top:200px;
+      justify-content: space-between;
+      margin-left:25%;
+      gap:150px;
       flex-direction: row;
-       
-      position: relative;         
+      position: absolute;               
    }
        .addtask5
    {
