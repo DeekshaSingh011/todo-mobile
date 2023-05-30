@@ -353,7 +353,8 @@ a{
    {
         justify-content: space-between;
       flex-direction: row;
-      position: absolute;         
+       
+      position: relative;         
    }
        .addtask5
    {
