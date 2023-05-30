@@ -219,13 +219,11 @@ a
 
 .flex3
 {
-   padding-top:5px;
-   padding-left:4px;
+   padding-top:1%;
    display: flex;
    flex-wrap: wrap;
    position: relative; 
    flex-direction: row;
-   gap:100px;
    justify-content: space-between;
 }
 a{
