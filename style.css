@@ -180,6 +180,18 @@ a
    text-align: center;
    color:#00A5EC;
 }
+.addtask5
+{
+      width:40%;
+      height:100%;
+      background-color:#FFFFFF;
+      border: 1px solid black;
+      left:33%;
+      top:196px;
+      border-radius:15px;
+      position: absolute;
+}
+
 
 /*Index4*/
 .addtask3
@@ -277,7 +289,7 @@ a{
    } 
    .addtask2
    {
-      width:66;
+      width:66%;
       height:44%;
       margin-left: 2%;
       top:29%;
@@ -344,5 +356,14 @@ a{
        
       flex-direction: row;
       position: absolute;         
+   }
+       .addtask5
+   {
+      width:66%;
+      height:44%;
+      margin-left: 2%;
+      top:29%;
+      left: 20%;
+      
    }
 }
