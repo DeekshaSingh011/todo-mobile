@@ -351,7 +351,6 @@ a{
    }  
  .flex2
    {
-   margin: auto;
       margin-top:5%;
       justify-content: space-between;
       margin-left:25%;
@@ -365,7 +364,6 @@ a{
       width:45%;
       height:30%;
       margin-left:25%;
-      top:29%;
       left: 20%;
     }
 }
