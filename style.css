@@ -354,7 +354,8 @@ a{
       margin-top:5%;
       margin-left:25%;
       gap:1%;
-      flex-direction: column;
+      flex-direction: row;
+         justify-content:space-between;
       position: absolute;               
    }
        .addtask5
