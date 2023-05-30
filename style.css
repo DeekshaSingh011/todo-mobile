@@ -334,13 +334,16 @@ a{
    width: 50%;
    padding: 2%;   
    }  
-
+   .adtask2
+   {
+   width: 50%;
+   padding: 2%;   
+   }  
  .flex2
    {
       margin-left:25%;
-      top:100px;
+      margin-top:100px;
       justify-content: space-around;
-
       flex-direction: row;
       position: absolute;         
    }
