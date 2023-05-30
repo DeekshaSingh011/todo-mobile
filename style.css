@@ -343,7 +343,7 @@ a{
    {
       margin-left:20%;
       margin-top:100px;
-        row-gap:150px;
+      justify-content: space-between;
       flex-direction: row;
       position: absolute;         
    }
