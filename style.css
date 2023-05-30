@@ -339,8 +339,8 @@ a{
    {
       margin-left:25%;
       top:100px;
-      justify-content: space-evenly;
-      gap:100px;
+      justify-content: space-between;
+  
       flex-direction: row;
       position: absolute;         
    }
