@@ -340,9 +340,9 @@ a{
    }  
  .flex2
    {
-      margin-left:30%;
-      margin-top:5%;
-      justify-content: space-around;
+      margin:auto;
+        justify-content: space-around;
+       
       flex-direction: row;
       position: absolute;         
    }
