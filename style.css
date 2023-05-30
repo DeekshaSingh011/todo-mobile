@@ -352,9 +352,8 @@ a{
  .flex2
    {
       margin-top:5%;
-      justify-content: space-between;
       margin-left:25%;
-      gap:100px;
+      gap:50px;
       flex-direction: row;
       position: absolute;               
    }
