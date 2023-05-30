@@ -337,11 +337,10 @@ a{
 
  .flex2
    {
-      margin: auto;
-      top:200px;
-      justify-content: space-around;
-      left:25%;
-      gap:150px;
+      margin-left:25%;
+      top:100px;
+      justify-content: space-evenly;
+      gap:100px;
       flex-direction: row;
       position: absolute;         
    }
