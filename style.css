@@ -282,7 +282,7 @@ a{
   } 
   .parent
   {
-     filter: blur(2px);
+     filter: blur(3px);
   } 
   .addtask2
   {
