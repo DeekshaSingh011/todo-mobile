@@ -66,7 +66,7 @@ a
   position: relative;
 }
 .box{
-  border: 2px solid #424242;
+  border: 1px solid grey;
   border-radius: 10px;
   height:250px;
   width: 25%;
@@ -102,19 +102,19 @@ a
 /*Index 2*/
 .addtask2
 {
-     width:40%;
+     width:30%;
      height:30%;
      background-color:#FFFFFF;
-     border: 1px solid black;
-     left:40%;
-     top:200px;
+     border: 1px solid gray;
+     top:40%;
+     margin-left:30%;
      border-radius:15%;
      position: absolute;
 }
 .flex1
 {
 
-  padding:2%;
+  padding:3%;
   display: flex;
   flex-wrap: wrap;
   position: relative; 
@@ -158,7 +158,7 @@ a
         height:30%;
         background-color:#FFFFFF;
         border: 1px solid black;
-        left:33%;
+        margin-left:35%;
         top:25%;
         border-radius:15px;
         position: absolute;
@@ -173,7 +173,7 @@ a
   justify-content: space-around;
   margin-top: 4%;
   margin-left:25%;
-  margin-right: 350px;
+ 
 }
 .pariss
 {
@@ -286,18 +286,17 @@ a{
   } 
   .addtask2
   {
-     width:70%;
+     width:45%;
      height:25%;
-     margin-left: 2%;
-     top:29%;
-     left: 20%;
+     top:24%;
+     left:5%;
+     font-size: 12px;
+     padding:1%;
      
   }
   .flex1
   {
-     padding-top:2%;
-     padding-left:2%;
-     padding-bottom:2%;
+     padding:2%;
      flex-wrap: nowrap;
      position: relative; 
      flex-direction: row;
@@ -331,7 +330,7 @@ a{
 }
   .adtask
   {
-  margin-top: 4%;
+  margin-top: 5%;
   margin-left:50%;
   width: 40%;
   padding: 2%;   
@@ -343,27 +342,26 @@ a{
   width: 40%;
   padding: 2%;   
   } 
-   
   .adtask2
   {
-    margin-top:9%;
     padding: 2%;   
-    margin-right:8%;
-    width: auto;
+    margin-right:28%;
+    width:auto;
+    font-size:15px;
   }  
 .flex2
   {
      margin-top:9%;
-     margin-left:20%; 
+     margin-left:14%; 
      justify-content: space-between;
      flex-direction: row;
   }
 
   .addtask5
   {
-      margin-top:8%;
+      margin-top:4%;
      width:45%;
      height:32%;
-     margin-left: 8%;
+     margin-left: 19%;
    }
 }
