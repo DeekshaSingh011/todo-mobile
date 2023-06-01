@@ -1,367 +1,368 @@
 /*index*/
 *{
-   margin: 0%;
-   padding: 0%;
+  margin: 0%;
+  padding: 0%;
 }
 body
 {
-  background-color: #F7F7F7;
+ background-color: #F7F7F7;
 }
 .navbar
 {
-   height: 80px;
-   background-color:#FFFFFF;
-   box-shadow:5px 5px 10px  #7B7B7B29;
-   border: 2px solid #7B7B7B29;    
+  height: 80px;
+  background-color:#FFFFFF;
+  box-shadow:5px 5px 10px  #7B7B7B29;
+  border: 2px solid #7B7B7B29;    
 }
 .task
 {
-   margin-left: 2%;
-   margin-top:2%;
+  margin-left: 2%;
+  margin-top:2%;
 }
 .lists
 {
-   color: #00A5EC;
+  color: #00A5EC;
 }
 a
 {
-  text-decoration: none;
+ text-decoration: none;
 }
 .circle
 {
-    width:100%;
-    height:100%;
-    background-color:#00A5EC;
-    border-radius: 50%;
+   width:100%;
+   height:100%;
+   background-color:#00A5EC;
+   border-radius: 50%;
 }
 .plus
 {
-    font-size:20px;
-    font-weight: bold;;
-    color:white;
-    padding-left: 2%;  
+   font-size:20px;
+   font-weight: bold;;
+   color:white;
+   padding-left: 2%;  
 }
 .plusadd
 {
-  display: flex;
-  flex-direction: row;
-  justify-content: end;
-  margin-right: 2%;
-  margin-top: 2%;
-  margin-bottom: 25px;
+ display: flex;
+ flex-direction: row;
+ justify-content: end;
+ margin-right: 2%;
+ margin-top: 2%;
+ margin-bottom: 25px;
 }
 .add
 {
-  letter-spacing: 0%;
+ letter-spacing: 0%;
 }
 .container{
-  margin-left: 12%;
-  margin-right: 12%;
-  gap:10%;
-  row-gap:6px;
-  margin-top: 2%;
-  margin-bottom: 2%;
-  display: flex;
-  flex-wrap: wrap;
-  position: relative;
+ margin-left: 12%;
+ margin-right: 12%;
+ gap:10%;
+ row-gap:6px;
+ margin-top: 2%;
+ margin-bottom: 2%;
+ display: flex;
+ flex-wrap: wrap;
+ position: relative;
 }
 .box{
-  border: 1px solid grey;
-  border-radius: 10px;
-  height:250px;
-  width: 25%;
-  background-color:#FFFFFF;
+ border: 1px solid grey;
+ border-radius: 10px;
+ height:250px;
+ width: 25%;
+ background-color:#FFFFFF;
 }
 .box:hover
 {
-  border: 2px solid rgb(83, 83, 83);
-  box-shadow: 10px 10px 10px 5px rgb(83, 83, 83);
+ border: 2px solid rgb(83, 83, 83);
+ box-shadow: 10px 10px 10px 5px rgb(83, 83, 83);
 }
 .pad{
-  padding-top: 20px;
-  padding-left:20px;
+ padding-top: 20px;
+ padding-left:20px;
 
 }
 .head
 {
-  margin-top: 10%;
-  margin-left:12%;
-  margin-bottom:10% ;
+ margin-top: 10%;
+ margin-left:12%;
+ margin-bottom:10% ;
 }
 .text
 {
-   text-decoration:line-through;
-   color: #afaeae;
+  text-decoration:line-through;
+  color: #afaeae;
 }
 
 .parent
 {
-  filter: blur(1px);
+ filter: blur(1px);
 }
 
 /*Index 2*/
 .addtask2
 {
-     width:30%;
-     height:30%;
-     background-color:#FFFFFF;
-     border: 1px solid gray;
-     top:40%;
-     margin-left:30%;
-     border-radius:15%;
-     position: absolute;
+    width:30%;
+    height:30%;
+    background-color:#FFFFFF;
+    border: 1px solid gray;
+    top:40%;
+    margin-left:30%;
+    border-radius:15%;
+    position: absolute;
 }
 .flex1
 {
 
-  padding:3%;
-  display: flex;
-  flex-wrap: wrap;
-  position: relative; 
-  flex-direction: row;
-  justify-content: space-between;
+ padding:3%;
+ display: flex;
+ flex-wrap: wrap;
+ position: relative; 
+ flex-direction: row;
+ justify-content: space-between;
 }
 .c
 {
-  background-color: #F7F7F7;
-  border:1px solid #EDEDED;
-  width: 90%;
-  height: 10px;
-  padding: 3%;
-  padding-bottom: 5px;
-  margin:auto;
-  margin-top: 8%;
+ background-color: #F7F7F7;
+ border:1px solid #EDEDED;
+ width: 90%;
+ height: 10px;
+ padding: 3%;
+ padding-bottom: 5px;
+ margin:auto;
+ margin-top: 8%;
 }
 .adtask
 {
-  background-color: #00A5EC;
-  color: white;
-  margin-top: 30px;
-  margin-left:260px;
-  width: 20%;
-  padding: 1%;
-  border-radius: 4px;
+ background-color: #00A5EC;
+ color: white;
+ margin-top: 30px;
+ margin-left:260px;
+ width: 20%;
+ padding: 1%;
+ border-radius: 4px;
 }
 
 /*Index3*/
 .adtask2
 {
-  background-color: #00A5EC;
-  color: white;
-  width:24%;
-  padding: 2%;
-  border-radius: 4px;
+ background-color: #00A5EC;
+ color: white;
+ width:24%;
+ padding: 2%;
+ border-radius: 4px;
 }
 .addtask3
 {
-        width:40%;
-        height:30%;
-        background-color:#FFFFFF;
-        border: 1px solid black;
-        margin-left:35%;
-        top:25%;
-        border-radius:15px;
-        position: absolute;
+       width:40%;
+       height:30%;
+       background-color:#FFFFFF;
+       border: 1px solid black;
+       margin-left:35%;
+       top:25%;
+       border-radius:15px;
+       position: absolute;
 
-  
+ 
 }
 .flex2
 {
-  display: flex;
-  flex-wrap: wrap;
-  position: relative;
-  justify-content: space-around;
-  margin-top: 4%;
-  margin-left:25%;
- 
+ display: flex;
+ flex-wrap: wrap;
+ position: relative;
+ justify-content: space-around;
+ margin-top: 4%;
+ margin-left:25%;
+
 }
 .pariss
 {
-  text-align: center;
-  color:#00A5EC;
+ text-align: center;
+ color:#00A5EC;
 }
 .addtask5
 {
-     width:30%;
-     height:40%;
-     background-color:#FFFFFF;
-     border: 1px solid black;
-     margin-left:30%;
-     top:196px;
-     border-radius:15px;
-     position: absolute;
+    width:30%;
+    height:40%;
+    background-color:#FFFFFF;
+    border: 1px solid black;
+    margin-left:30%;
+    top:196px;
+    border-radius:15px;
+    position: absolute;
 }
 
 
 /*Index4*/
 .addtask3
 {
-     width:20%;
-     height:60%;
-     background-color:#FFFFFF;
-     border: 1px solid black;
-     margin-left:10%;
-     border-radius:15px;
-     position: absolute;
+    width:20%;
+    height:60%;
+    background-color:#FFFFFF;
+    border: 1px solid black;
+    margin-left:10%;
+    border-radius:15px;
+    position: absolute;
 }
 .addtask4
 {
-     width:33%;
-     height:70%;
-     background-color:#FFFFFF;
-     border: 1px solid black;
-     left:33%;
-     top:196px;
-     border-radius:15px;
-     position: absolute;
+    width:33%;
+    height:70%;
+    background-color:#FFFFFF;
+    border: 1px solid black;
+    left:33%;
+    top:196px;
+    border-radius:15px;
+    position: absolute;
 }
 
 .flex3
 {
-  padding-top:1%;
-  display: flex;
-  flex-wrap: wrap;
-  position: relative; 
-  flex-direction: row;
-  justify-content: space-between;
+ padding-top:1%;
+ display: flex;
+ flex-wrap: wrap;
+ position: relative; 
+ flex-direction: row;
+ justify-content: space-between;
 }
 a{
 
-  color: black;
+ color: black;
 }
 .cpad
 {
-  background-color: #F7F7F7;
-  border:1px solid #EDEDED;
-  width: 90%;
-  height: 4%;
-  padding: 3%;
-  margin:auto;
-  margin-top: 12%;
+ background-color: #F7F7F7;
+ border:1px solid #EDEDED;
+ width: 90%;
+ height: 4%;
+ padding: 3%;
+ margin:auto;
+ margin-top: 12%;
 }
 .adtask3
 {
-  background-color: #00A5EC;
-  color: white;
-  width: 100px;
-  padding: 2%;
-  margin-left: 70%;
-  margin-top: 2%;
-  border-radius: 4px;
+ background-color: #00A5EC;
+ color: white;
+ width: 100px;
+ padding: 2%;
+ margin-left: 70%;
+ margin-top: 2%;
+ border-radius: 4px;
 }
 /*media*/
 @media only screen and (max-width:900px) and (min-width:300px) 
 {
-  .plusadd
+ .plusadd
 
-  {
-     flex-direction: row;
-     margin-top: 2%;
-     margin-bottom: 25px;
-     margin-right:12%;
-     justify-content:center;
+ {
+    flex-direction: row;
+    margin-top: 2%;
+    margin-bottom: 25px;
+    margin-right:12%;
+    justify-content:center;
+   align-items: center;
+ }
+ .add
+ {
+   display: none;
+ }
+ .container
+ {
+    flex-wrap: nowrap;
+    flex-direction: column;  
+    justify-content: center;
     align-items: center;
-  }
-  .add
-  {
-    display: none;
-  }
-  .container
-  {
-     flex-wrap: nowrap;
-     flex-direction: column;  
-     justify-content: center;
-     align-items: center;
-     margin:auto;
-     row-gap: 5px;
-  }
-  .box
-  {
-     padding:1%;
-     width:40%;
-  } 
-  .parent
-  {
-     filter: blur(3px);
-  } 
-  .addtask2
-  {
-     width:45%;
-     height:25%;
-     top:24%;
-     left:5%;
-     font-size: 12px;
-     padding:1%;
-     
-  }
-  .flex1
-  {
-     padding:2%;
-     flex-wrap: nowrap;
-     position: relative; 
-     flex-direction: row;
-     gap:65%;
-  }
-  .c
-  {
-  width: 90%;
-  height: 16;
-  padding:3%;
-  padding-bottom: 1%;
-  margin:auto;
-  margin-top: 10%;
-  }
-  .addtask3
+    margin:auto;
+    row-gap: 5px;
+ }
+ .box
+ {
+    padding:1%;
+    width:40%;
+ } 
+ .parent
+ {
+    filter: blur(3px);
+ } 
+ .addtask2
+ {
+    width:45%;
+    height:25%;
+    top:24%;
+    left:5%;
+    font-size: 12px;
+    padding:1%;
+    
+ }
+ .flex1
+ {
+    padding:2%;
+    flex-wrap: nowrap;
+    position: relative; 
+    flex-direction: row;
+    gap:65%;
+ }
+ .c
+ {
+ width: 90%;
+ height: 16;
+ padding:3%;
+ padding-bottom: 1%;
+ margin:auto;
+ margin-top: 10%;
+ }
+ .addtask3
 {
-  width:50%;
-  height:50%;
-  margin-top:  5%;
-  margin-left: 30%;
+ width:50%;
+ height:30%;
+ margin-top:  5%;
+ margin-left: 30%;
 
 }
 
 .addtask4
 {
-  width:60%;
-  height:100%;
-  margin-left: 2%;
-  margin-top:40%;
-  left: 25%;
+ width:60%;
+ height:100%;
+ margin-left: 2%;
+ margin-top:40%;
+ left: 25%;
 }
-  .adtask
-  {
-  margin-top: 5%;
-  margin-left:50%;
-  width: 40%;
-  padding: 2%;   
-  }  
-  .adtask3
-  {
-  margin-bottom:5%;
-  margin-left:45%;
-  width: 40%;
-  padding: 2%;   
-  } 
-  .adtask2
-  {
-    padding: 2%;   
-    margin-right:28%;
-    width:auto;
-    font-size:15px;
-  }  
-.flex2
-  {
-     margin-top:9%;
-     margin-left:14%; 
-     justify-content: space-between;
-     flex-direction: row;
-  }
+ .adtask
+ {
+ margin-top: 5%;
+ margin-left:50%;
+ width: 40%;
+ padding: 2%;   
+ }  
+ .adtask3
+ {
 
-  .addtask5
-  {
-      margin-top:4%;
-     width:45%;
-     height:32%;
-     margin-left: 19%;
-   }
+ margin-left:45%;
+ width: 40%;
+ padding: 2%;  
+ margin-top: 12%; 
+ } 
+ .adtask2
+ {
+   padding: 2%;   
+   margin-right:28%;
+   width:auto;
+   font-size:15px;
+ }  
+.flex2
+ {
+    margin-top:9%;
+    margin-left:14%; 
+    justify-content: space-between;
+    flex-direction: row;
+ }
+
+ .addtask5
+ {
+     margin-top:4%;
+    width:45%;
+    height:32%;
+    margin-left: 19%;
+  }
 }
